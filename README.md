@@ -1,3 +1,7 @@
+# About this branch
+
+A backup of [Luckytyphlosion's agbcc repository's new_layout_with_libs branch](https://github.com/luckytyphlosion/agbcc/tree/new_layout_with_libs) for archival purposes, in case anything ever goes wrong.
+
 # agbcc
 
 This repository contains the following subprojects, with their
